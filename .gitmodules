@@ -1,24 +1,24 @@
 [submodule "edin01/project2"]
 	path = edin01/project2
-	url = git@https://github.com/HaraldNordgren/edin01.git
+	url = https://github.com/HaraldNordgren/edin01.git
 [submodule "eit060/proj2/EIT060"]
 	path = eit060/proj2/EIT060
-	url = git@https://github.com/gifflarn/EIT060
+	url = https://github.com/gifflarn/EIT060
 [submodule "fmn011/project2"]
 	path = fmn011/project2
-	url = git@https://github.com/HaraldNordgren/fmn011
+	url = https://github.com/HaraldNordgren/fmn011
 [submodule "edan40/project1"]
 	path = edan40/project1
-	url = git@https://github.com/EDAN40/project1
+	url = https://github.com/EDAN40/project1
 [submodule "edan40/project2"]
 	path = edan40/project2
-	url = git@https://github.com/EDAN40/project2
+	url = https://github.com/EDAN40/project2
 [submodule "edan40/project3"]
 	path = edan40/project3
-	url = git@https://github.com/EDAN40/project3
+	url = https://github.com/EDAN40/project3
 [submodule "edaf35/project"]
 	path = edaf35/project
-	url = git@https://github.com/HaraldNordgren/edaf35
+	url = https://github.com/HaraldNordgren/edaf35
 [submodule "eda031/project"]
 	path = eda031/project
-	url = git@https://github.com/HaraldNordgren/eda031
+	url = https://github.com/HaraldNordgren/eda031
