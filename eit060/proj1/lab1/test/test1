@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#openssl genrsa -out privkey.pem 2048 -alias key1
+printf 'SE\nSkane Lund LTH Data CA ada09hno@student.lu.se' | openssl req -new -x509 -key privkey.pem -out publickey.cer

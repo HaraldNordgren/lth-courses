@@ -1,0 +1,9 @@
+adders = 1;
+multers = 1;
+
+addClock = 1;
+multClock = 2;
+
+totAdds = 1..12;
+totMults = 1..16;
+

@@ -1,0 +1,3 @@
+function xp=dftinterp(inter,x,n,p)c=inter(1);
+
+d=inter(2);t=c+(d-c)*(0:n-1)/n;      % n evenly-spaced time pointstp=c+(d-c)*(0:p-1)/p;     % p evenly-spaced time pointsy=fft(x);                 % apply DFTyp=zeros(p,1);            % yp will hold coefficients for ifftyp(1:n/2+1)=y(1:n/2+1);   % move n frequencies from n to pyp(p-n/2+2:p)=y(n/2+2:n); % same for upper tierxp=real(ifft(yp))*(p/n);  % invert fft to recover dataplot(t,x,'o',tp,xp)       % plot data points and interpolant

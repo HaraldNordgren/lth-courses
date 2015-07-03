@@ -1,0 +1,3 @@
+array[1 .. 12] of int: addTimes = [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ];
+var int: end;
+output [ "EndTime", show(end), "debugasdasdas", show(addTimes) ];

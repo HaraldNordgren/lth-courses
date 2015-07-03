@@ -1,0 +1,4 @@
+rm hej
+ls > hej
+cat < hej
+echo -e "abc\ndef" | wc

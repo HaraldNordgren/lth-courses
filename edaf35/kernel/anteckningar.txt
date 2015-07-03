@@ -1,0 +1,22 @@
+relative_states är true on det finns olika sleep states, då är mem det djupaste, följt av standyby och freeze. Om variablen är noll finns bara sleep.
+
+
+
+kallar sys_sync (synkar i/o ?)
+
+kallar suspend_prepare
+  suspend_freeze_processes()
+  räknar statistik om det misslyckas
+
+kallar suspend_devices_and_enter
+  kallar platform_suspend_begin om begin() är definierad
+
+
+
+
+
+Structen platform_suspend_ops innehåller funktionerna som körs när systemet försöker göra suspend. Den innehåller en massa funktionspekare, som olika funktioner jämför med 0 för att kolla om respektive funktion är definierade eller inte.
+
+enter är obligatorisk att implementera och körs precis innan systemet suspendar. Innan det kan begin, prepare och prepare_late köras. När systemet återvänder kan wake, finish och end köras.
+
+Alla dessa funktioner kan misslyckas varpå suspend-processen avbryts, och eventuella variabler måste återställas.

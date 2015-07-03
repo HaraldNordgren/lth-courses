@@ -1,0 +1,15 @@
+*~
+*.swp
+*.class
+
+**/.metadata/
+**/bin/
+
+eit060/lab2/part2/
+eit060/proj1/src/obsolete/
+
+edan01/transfered/
+edan01/Minizinc_IDE/MiniZincIDE-0.9.6-linux-x86_64/
+edan01/Minizinc_IDE/examples/
+edan01/Minizinc_IDE/tutorial/
+edan01/Minizinc_binaries/

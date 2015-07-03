@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:gravity="center"
+	android:padding="30dip">
+
+<TextView
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:text="@string/main_title"
+	android:layout_marginBottom="40dip"
+	android:textSize="16sp" 
+/>
+
+<TextView
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:text="Number of threads"
+	android:layout_marginBottom="10dip"
+	android:textSize="12sp" 
+/>
+
+<EditText
+	android:id="@+id/num_threads"
+	android:layout_width="match_parent"
+	android:layout_height="40sp"
+	android:lines="1"
+	android:inputType="number"
+	android:hint="number of threads"
+	android:imeOptions="actionGo"
+	android:layout_marginBottom="40dip"
+/>
+
+<TextView
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:text="Sum from 1 to n"
+	android:layout_marginBottom="10dip"
+	android:textSize="12sp" 
+/>
+
+<EditText
+	android:id="@+id/sum"
+	android:layout_width="match_parent"
+	android:layout_height="40sp"
+	android:lines="1"
+	android:inputType="number"
+	android:hint="n"
+	android:imeOptions="actionGo"
+	android:layout_marginBottom="40dip"
+/>
+
+<Button
+	android:id="@+id/start_button"
+	android:layout_width="60sp"
+	android:layout_height="wrap_content"
+	android:text="@string/start_label"
+/>
+
+<TextView
+	android:id="@+id/time"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:text=""
+	android:layout_marginBottom="10dip"
+	android:textSize="12sp" 
+/>
+
+</LinearLayout>

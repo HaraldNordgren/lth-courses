@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_title">EDA050 Scheduler Benchmark Version 0.01</string>
+    <string name="app_name">EDA050</string>
+    <string name="start_label">Start</string>
+    <string name="work_label">Working...</string>
+</resources>
