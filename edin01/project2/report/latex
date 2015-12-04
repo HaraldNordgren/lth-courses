@@ -1,0 +1,80 @@
+\documentclass[a4paper]{article}
+
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorinlistoftodos]{todonotes}
+
+\title{Project 2}
+
+\author{Harald Nordgren, Gustaf Malm}
+
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section{Polynomials, elds and cycle sets}
+
+\subsection{Exercise 1}
+\subsubsection{Paper exercise 1}
+\subsubsection{Computer exercise 1}
+
+We test if the function is primitive by using \texttt{Primitive} in Maple. If this is true then the polynomial is also irreduible, otherwise we test for reducibility with \texttt{Berlekamp}. Berlekamp returns the factorization if one exists, otherwise it just gives the polynomial.
+
+\paragraph{a}
+\begin{verbatim}
+Primitive (x^23+x^5+1) mod 2;
+\end{verbatim}
+
+Returns true, polynomial is primitive and thus irreducible.
+
+\paragraph{b}
+\begin{verbatim}
+Primitive (x^23+x^6+1) mod 2;
+\end{verbatim}
+
+Returns false, so we move on to \texttt{Berlekamp}.
+
+\begin{verbatim}
+Berlekamp(x^23+x^6+1,x) mod 2
+\end{verbatim}
+which gives us a factorization, so the polynomial is reducible.
+
+\begin{verbatim}  3           4    3
+{x  + x + 1, x  + x  + 1,
+
+     16    15    13    12    8    6    4    3    2
+    x   + x   + x   + x   + x  + x  + x  + x  + x  + x + 1}
+\end{verbatim}
+
+\paragraph{c}
+Primitive returns false, but Berlekamp tells us the polynomil is irreducible.
+
+\paragraph{d}
+\begin{verbatim}
+       4      3      2             4      3      2
+     {x  + 3 x  + 5 x  + 5 x + 6, x  + 4 x  + 5 x  + 2 x + 6}
+\end{verbatim}
+
+Reducible, so not a primitive.
+
+
+\subsection{Exercise 2}
+\subsubsection{Paper exercise 2}
+\paragraph{a}
+
+By calculating the powers of $\alpha$ using $\pi(\alpha)=\alpha{3}+\alpha+1$ we reach $\alpha^{14} = 1$, and no smaller $n$ fulfills $\alpha^{n} = \alpha$. So the order of $\alpha$ is $14$.
+
+\paragraph{b}
+By the last assignment, $\alpha^{14} = (\alpha^{2})^{7} = 1$, so the order of $\alpha^{2}$ is $7$.
+
+\paragraph{c}
+
+
+\subsubsection{Computer exercise 2}
+
+
+
+\end{document}

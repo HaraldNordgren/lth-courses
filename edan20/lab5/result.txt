@@ -1,0 +1,45 @@
+
+		======== UNLABELLED ======== 
+
+
+	== 2param ==
+
+  Labeled   attachment score: 42 / 5021 * 100 = 0.84 %
+  Unlabeled attachment score: 3658 / 5021 * 100 = 72.85 %
+  Label accuracy score:       42 / 5021 * 100 = 0.84 %
+
+	== 4param ==
+
+  Labeled   attachment score: 23 / 5021 * 100 = 0.46 %
+  Unlabeled attachment score: 4071 / 5021 * 100 = 81.08 %
+  Label accuracy score:       23 / 5021 * 100 = 0.46 %
+
+	== 6param ==
+
+  Labeled   attachment score: 23 / 5021 * 100 = 0.46 %
+  Unlabeled attachment score: 4087 / 5021 * 100 = 81.40 %
+  Label accuracy score:       23 / 5021 * 100 = 0.46 %
+
+
+
+		======== LABELLED ======== 
+
+
+	== 2param ==
+
+  Labeled   attachment score: 3015 / 5021 * 100 = 60.05 %
+  Unlabeled attachment score: 3662 / 5021 * 100 = 72.93 %
+  Label accuracy score:       3173 / 5021 * 100 = 63.19 %
+
+	== 4param ==
+
+  Labeled   attachment score: 3421 / 5021 * 100 = 68.13 %
+  Unlabeled attachment score: 4042 / 5021 * 100 = 80.50 %
+  Label accuracy score:       3553 / 5021 * 100 = 70.76 %
+
+	== 6param ==
+
+  Labeled   attachment score: 3424 / 5021 * 100 = 68.19 %
+  Unlabeled attachment score: 4053 / 5021 * 100 = 80.72 %
+  Label accuracy score:       3565 / 5021 * 100 = 71.00 %
+
