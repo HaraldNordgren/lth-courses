@@ -22,3 +22,6 @@
 [submodule "eda031/project"]
 	path = eda031/project
 	url = https://github.com/HaraldNordgren/eda031
+[submodule "eq2330"]
+	path = eq2330
+	url = https://github.com/HaraldNordgren/eq2330
