@@ -16,3 +16,6 @@
 [submodule "eq2330"]
 	path = eq2330
 	url = https://github.com/HaraldNordgren/eq2330
+[submodule "edan40"]
+	path = edan40
+	url = https://github.com/HaraldNordgren/edan40
