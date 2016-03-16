@@ -1,0 +1,80 @@
+JONATHANS DEL (PATENT AND COPYRIGHT)
+
+where to develop a new banking system there is several kinds of legal protection
+IS -> ARE
+
+options is considered for the major parts of the banking system.
+IS -> ARE
+
+There is mainly four different forms of protection that applies to a banking
+IS -> ARE
+
+Copyright is of highest importance for a banking system since the
+IS -> ARE
+
+nking system have parts of itself exposed to the public, easily
+HAVE -> HAS
+
+Names, logotypes, slogans and the like uses another protection, trademarks.
+AND SIMILAR THINGS, USES -> USE
+
+Here isn’t anything special for a banking system to consider here
+HERE -> THERE, ISN'T ANYTHING -> IS NOTHING
+
+Even functions that is visible on the web front-end can the protected
+IS -> ARE
+
+functions that is visible on the web front
+IS -> ARE
+
+only give a visual representation
+GIVE -> GIVES
+
+representation of the function and gets input from the user, then everything is actually executed on the server
+OMFORMULERA. EVERYTHING IS THEN EXECUTED ON THE SERVER
+
+to another customers bank account
+CUSTOMER'S
+
+so not all customers need to belong to the same bank
+SO THAT NOT
+
+There is one tricky thing that is less obvious whether it can be protected by trade secrets
+WHEATHER OR NOT
+
+similar things banks issues to their customers for making logging in more secure
+THINGS -> CUSTOMER
+
+Even though the trade secret laws says
+SAYS -> SAY
+
+that if one have taken reasonable measures to protect the information one
+HAVE -> HAS
+
+Even though the trade secret laws
+says that if one have taken reasonable measures to protect
+the information one have legal right against the offender, it is
+not recommended to rely on this in this case. This since trade
+secrets not might be protected against reverse engineering. You
+can of course have all the ones receiving the device sign a
+license stating that they are not allowed to reverse engineer to
+device, but it seems like patent is a more viable option here
+BEHÖVER OMFORMULERING.
+
+this there exists a few patents
+EXISTS -> EXIST
+
+patents exist that covers secure log in using
+COVERS -> COVER
+
+between different kind of systems.
+KIND -> KINDS
+
+the new system doesn’t copy what is patented
+IS ALREADY PATENTED
+
+or to get hold of a license for the patented solution.
+AND IN THAT CASE TO GET HOLD OF A LICENSE
+
+Besides patent and copyright there is also other things thatcan lead
+PATENTS, COPYRIGHTS, THERE ARE ALSO

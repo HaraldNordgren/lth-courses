@@ -1,0 +1,231 @@
+Therefore we define the banking system as following.
+TA BORT
+
+The web front-end is provided to the user by letting the user use her web browser to visit the banks homepage
+APOSTROF
+
+The communication between the users web browser and the banks web server utilize
+APOSTROFER FLERA
+
+web server utilize a secure connection (SSL) that protects against eavesdropping
+LÄGG TILL E.G.
+
+The user only interacts with the banks web server through the web front-end
+APOSTROF
+
+it is then the software on the banks server
+APOSTROF
+
+that actually performs the data retrieving from databases and performing of transactions.
+PERFORMS THE TRANSACTIONS
+
+The server software, the software that performs actions on users input
+APOSTROF och THE USER'S
+
+is installed on the banks server computers
+APOSTROF
+
+that only authorized personnel have physical access to
+TA BORT PHYSICAL
+
+Usually there is many different kinds of servers with different responsibility
+IS -> ARE, RESPONSIBILITIES PLURAL
+
+but for simplicity sake we consider them a unity that does everything
+SIMPLICITY'S SAKE, UNITY -> UNIT
+
+The only way the users interact with the server is though the web connection
+THOUGH -> THROUGH
+
+Since the server have access to do anything on any customers bank account
+HAVE -> HAS, APOSTROF
+
+the server have to validate every single request from the user before performing it
+HAVE -> HAS
+
+To authenticate oneself to the server, the user need to log in
+NEED -> NEEDS
+
+Typical banks provide different options for logging in, being considered more and less safe
+APOSTROF, WHICH ARE CONSIDERED BEING, MORE OR LESS
+
+Usually bank uses an off computer solution like a card reader that requires the user
+THE BANK
+
+requires the user to visit her card
+USE HER CREDIT CARD
+
+or a small device there you input a code given by the bank to the device
+THERE -> WHERE
+
+that is only valid a small amount of time.
+SMALL -> SHORT
+
+and the user retrieve these devices from the bank in person, making sure the right person got it
+GOT -> GETS
+
+and the user retrieve these devices from the bank in person, making sure the right person got it
+OMFORMULERA: SPECIFICERA NÄR MAN BEHÖVER OCH INTE BEHÖVER KORT
+
+and to download an electronic id-card to authenticate yourself on other sites.
+ID CARD
+
+
+
+
+
+
+
+HARALDS DEL
+
+Because online banking has the potential to make banking alot more convenient for customer than going
+CUSTOMERS
+
+I would be a failure if customers after discovering online banking still would prefer the old fashioned bank. 
+IT
+
+Nor is it acceptable for account balances to be stored only i ruff figures.
+IN
+
+Customers must be able to trust the bank to store their account balance as an exact balance.
+OMFORMULERA?
+
+Customers who handle and trade large amounts of money, and trust a bank to perform these services needs to be able to 
+NEED
+
+Few customers are interested in depositing money in a physical bank with insecure locks of their valve doors.
+ON
+
+customers are not likely to chose a bank with an unsafe online service.
+CHOOSE
+
+Other users eavesdropping of the connection should not be allowed to intercept
+ON
+
+KANSKE TA BORT FAKTA OM LOGIN?
+
+For users who have little experienced with technology, using
+EXPERIENCE
+
+For users who have little experienced with technology, using an online banking service could be very difficult.
+could -> CAN
+
+Customers who receive proper help will perform their baking needs both faster and more accurately
+BANKING
+
+
+
+
+
+
+
+
+HOAS DEL
+
+As the amount of money increases in the world so does the circulation of it.
+TA BORT, STÅR REDAN I BÖRJAN AV DOKUMENTET
+
+In order to provide a banking system that is practical and available there must be different ways to access one’s own account for various reasons like for instance checking the remaining balance, withdraw money and paying bills.
+DENNA TEXTEN FINNS REDAN PÅ TVÅ STÄLLEN I TEXTEN; I HARALDS DEL OPCH JONATHANS.
+
+Today there are different ways to access one’s own account.
+ONE -> THE USER
+
+One example is the automated teller machine which you can withdraw money whenever you want
+SKRIV UT FÖRKORTNINGEN ATM OCH ANVÄND SEDAN BARA DENNA
+
+One example is the automated teller machine which you can withdraw money whenever you want.
+FROM/WITH WHICH
+
+Another example is the internet bank which you can pay your bills whenever you want.
+BEHÖVS DET VERKLIGEN YTTERLIGARE EN INLEDNING TILL ÄMNET?
+
+This section will analyze the aspect of availability of paying bills through the internet bank.
+INTERNET STORT I.
+
+Internet banking is a very practical and quick way to access one’s own account for various reasons like paying bills.
+REPETITION
+
+and the main unit is the mobile phone itself.
+MAIN UNIT?
+
+In Sweden the GSM covers 99, 7% of all homes according to Tele2.((NOT))((PTS sid 6 mitt I sidan)) But the ippi is not restricted to only Tele 2. You can even use the ippi with all of the other GSM-operators in Sweden like Telenor, Telia and 3 which means that the coverage is almost 100%.
+IPPI HAR VÄL INGEN DIREKT KOPPLING TILL TELE2?
+
+but according to a report which Post och Telestyrelsen ordered
+SKRIV UT FÖRKORTNINGEN PTS OCH ANVÄND SEDAN BARA DENNA, KANSKE ÄVEN NÄMNA ATT DET ÄR DEN SVENSKA PTS.
+
+version of the service of using electronically bills.
+ELECTRONIC
+
+Given this the mobile bank would fully fulfill the purpose of the ippi in the aspect
+FULFILL
+
+Not all mobile banks support the electronic payment service today but there are some that does.
+DOES -> DO
+
+Example of banks that do support electronic payment service are SEB and Nordea.
+SKANDINAVISKA ENSKILDA BANKEN (SEB)
+
+Another convenient way of handling mobile banks today is that some banks even have application software for their mobile banks.
+MOBILE VERSION OF THE BANK SERVICE
+
+authentication through the use of fingerprints or a voice authentication if the banks approves to it.
+APPROVES OF IT
+
+through ippi and electronically bills.
+ELECTRONIC
+
+Some of the difficulties involved in paying bills without the use of electronically bills are the input of digits
+ELECTRONIC
+
+the OCR-number and the amount.
+AMOUNT TO BE PAID
+
+Electronically bills will solve this difficulty because
+OVERCOME THIS DIFFUCULTY
+
+The user just need to approve the bill and the payment is done.
+NEED -> NEEDS
+
+Electronically bills will solve this difficulty because the OCR
+ELECTRONIC
+
+In the cases which the receiver of the bill does not support electronically bills
+IN WHICH, ELECTRONIC, DOES NOT PROVIDE THE SERVICE OF ELECTRONIC BILLS
+
+third party that has the task to convert paper bills to electronically bills.
+ELECTRONIC
+
+The main use of ippi today is within health and social care(eg ldreomsorg, funktionshinder, anhrigvrd och boendestd)
+ÖVERSÄTTNINGAR AV ORDEN INOM PARANTES VÄLKOMNAS. DET ÄR NÄMLIGEN INTE UPPENBART ATT SOCIAL CARE AVSER VÅRD FÖR ÄLDRE.
+
+but it does not support electronically payment services and other bank services yet
+ELECTRONIC
+
+The ambition is that the next version of ippi will support electronically payment services and the ability to show one’s balance
+ELECTRONIC. BALANCE -> ACCOUNT BALANCE, ONE'S -> USER'S
+
+The next version is planned to be in use around 2012
+ACCORDING TO WHOM?
+
+In the case of automated teller machines there has been an adjustment
+FÖRKORTNINGEN ATM BÖR REDAN VARA FÖRKLARAD TIDIGARE ANVÄND DEN.
+
+even person with low vision can use it.
+PERSON -> PEOPLE
+
+The automated teller machines of Swedbank AB for instance have a button that enables
+ATM, SWEDBANK AB -> SWEDBANK
+
+have a button that enables the machine to read the options available so that the user can hear the options.
+HAS, INTE UPPENBART ATT TEXTEN LÄSES UPP HÖGT.
+
+In United States the Bridgeview Bank in Uptown
+GOOGLE-SÖKNING GER EN BANK SOM LIGGER I UPTOWN CHICAGO I ILLINOIS MENADE DU DEN?
+
+Besides that the toolbar are only installed on the local computer
+ARE -> IS
+
+The users voice are never transmitted through the internet.
+APOSTROF PÅ USER'S, ARE -> IS, INTERNET STORT I.
